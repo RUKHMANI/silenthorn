@@ -1,2 +1,2 @@
 # silenthorn
-Webapplication for physically challenged people
+Web application for Hearing Impaired people.
